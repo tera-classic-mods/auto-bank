@@ -1,0 +1,19 @@
+{
+    "version": 4,
+    "data": {
+        "enabled": true,
+        "delay": 150,
+        "bankList": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": [],
+            "6": [],
+            "7": [],
+            "8": []
+        },
+        "depositGold": false,
+        "depositAmount": 0
+    }
+}
